@@ -18,7 +18,7 @@ No "installation" needed. Unzip and run the standalone command-line application.
 ## Running the test
 
 1. Unzip application
-2. Run "ShippoHomework"
+2. Run "app"
 3. Choose "1" to view all appointments (will be null on start)
    Choose "2" to start the scheduling process (continue to step 4)
    Choose "3" to exit the application loop
