@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ShippoHomework/scheduler"
+	"./scheduler"
 )
 
 func main() {

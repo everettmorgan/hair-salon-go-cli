@@ -6,7 +6,7 @@ import (
 	"os"
 	"regexp"
 	"strconv"
-	"ShippoHomework/appointment"
+	"../appointment"
 )
 
 type scheduler struct {
