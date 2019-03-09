@@ -63,7 +63,7 @@ func (scheduler *Scheduler) displayThenGetInputOrSelection(setting string, displ
 		}
 
 	} else if setting == "string" {
-		rValue = string(input)
+		rValue = string(userInput)
 		rValid = false
 	}
 
